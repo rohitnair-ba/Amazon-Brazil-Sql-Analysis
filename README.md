@@ -1,4 +1,4 @@
-# 🇧🇷 Amazon Brazil E-Commerce SQL Analysis
+# Amazon Brazil E-Commerce SQL Analysis
 
 📊 **SQL | MySQL | E-Commerce Analytics**
 
