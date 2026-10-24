@@ -1,9 +1,6 @@
 /*
 Amazon Brazil SQL Analysis Project
 Repository: amazon-brazil-sql-analysis
-
-Collected from the available project screenshots and question context.
-The supplied query logic is preserved as shown in the available source material.
 */
 
 -- Q1. Find the total number of orders fulfilled by each seller state.
